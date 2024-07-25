@@ -22,7 +22,7 @@ const About: React.FC<AboutProps> = (props) => {
                 </p>                                                                              
                 <br />                                                                              
                 <p>                                                                              
-                      Thank you for taking the time to check out my portfolio. I
+                    Thank you for taking the time to check out my portfolio. I
                     really hope you enjoy exploring it as much as I enjoyed
                     copying it. If you have any questions or comments, feel
                     free to contact me using{' '}
