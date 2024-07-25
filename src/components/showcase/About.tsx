@@ -21,14 +21,15 @@ const About: React.FC<AboutProps> = (props) => {
                     I just create content that interests me for my own satisfaction. 
                 </p>                                                                              
                 <br />                                                                              
-                <p>                                                                              
-                    Thank you for taking the time to check out my portfolio. I
-                    really hope you enjoy exploring it as much as I enjoyed
-                    copying it. If you have any questions or comments, feel
+                <p>   
+                    
+                    Thank you for taking the time to check out my portfolio.
+                    If you have any questions or comments, feel
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
                     <a href="mailto:kuihua2222@gmail.com">
                         kuihua2222@gmail.com
+                        
                     </a>                                                                              
                 </p>                                                                              
             </div>                                                                              
