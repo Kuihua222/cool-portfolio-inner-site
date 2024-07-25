@@ -35,12 +35,56 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     animation.
                 </p>
                 <br />
+                
+                {/* 第一张图片 */}
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
                             <b>Figure 1:</b> Eight Frame Run cycle animated by
                             myself, original sprite by kevink
+                        </sub>
+                    </p>
+                </div>
+
+                {/* 第二张图片 */}
+                <div className="captioned-image">
+                    <img src={girlRun} alt="" />
+                    <p>
+                        <sub>
+                            <b>Figure 2:</b> Description of the second image.
+                        </sub>
+                    </p>
+                </div>
+
+                {/* 第三张图片 */}
+                <div className="captioned-image">
+                    <img src={girlRun} alt="" />
+                    <p>
+                        <sub>
+                            <b>Figure 3:</b> Description of the third image.
+                        </sub>
+                    </p>
+                </div>
+
+                {/* 第四张图片 */}
+                <div className="captioned-image">
+                    <img src={girlRun} alt="" />
+                    <p>
+                        <sub>
+                            <b>Figure 4:</b> Description of the fourth image.
+                        </sub>
+                    </p>
+                </div>
+
+                {/* 继续添加更多图片 */}
+                
+                {/* 例如：第五张图片 */}
+                <div className="captioned-image">
+                    <img src={girlRun} alt="" />
+                    <p>
+                        <sub>
+                            <b>Figure 5:</b> Description of the fifth image.
                         </sub>
                     </p>
                 </div>
