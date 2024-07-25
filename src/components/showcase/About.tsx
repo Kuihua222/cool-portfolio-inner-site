@@ -58,7 +58,7 @@ const About: React.FC<AboutProps> = (props) => {
                         href="https://arts.201422024.xyz"
                     >
                         我的网站arts
-                    sof
+                    </a>
                     . 跳转至software{' '}
                     <Link to="/projects/software">Software Projects</Link> page.
                 </p>
