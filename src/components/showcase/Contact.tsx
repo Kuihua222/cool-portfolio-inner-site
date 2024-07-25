@@ -57,7 +57,7 @@ const Contact: React.FC<ContactProps> = (props) => {
         try {
             setIsLoading(true);
             const res = await fetch(
-                'https://api.henryheffernan.com/api/contact',
+                'https://api.xxxx/api/contact',
                 {
                     method: 'POST',
                     headers: {
@@ -116,30 +116,27 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <div style={styles.socials}>
                     <SocialBox
                         icon={ghIcon}
-                        link={'https://github.com/henryjeff'}
+                        link={'https://github.com/'}
                     />
                     <SocialBox
                         icon={inIcon}
-                        link={'https://www.linkedin.com/in/henryheffernan/'}
+                        link={'https://www.linkedin.com/'}
                     />
                     <SocialBox
                         icon={twitterIcon}
-                        link={'https://twitter.com/henryheffernan'}
+                        link={'https://twitter.com/WEIJunben'}
                     />
                 </div>
             </div>
             <div className="text-block">
                 <p>
-                    I am currently employed, however if you have any
-                    opportunities, feel free to reach out - I would love to
-                    chat! You can reach me via my personal email, or fill out
-                    the form below!
+                    还没弄好，发了我也收不到。
                 </p>
                 <br />
                 <p>
                     <b>Email: </b>
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:kuihua2222@gmail.com">
+                        kuihua2222@gmail.com
                     </a>
                 </p>
 
