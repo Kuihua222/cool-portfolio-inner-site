@@ -9,30 +9,27 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
     return (
         <div className="site-page-content">
             <h1>Art & Design</h1>
-            <h3>Endeavors</h3>
+            <h3>■■■■■■■■■■</h3>
             <br />
             <div className="text-block">
                 <p>
-                    While I love programming and software development, Art,
-                    Design, and Animation will always hold a special place in my
-                    heart.
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■, Art,
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■.
                 </p>
                 <br />
                 <p>
-                    Here are a few projects/things I've done over the years to
-                    keep the artistic side of me alive. I'm always looking to
-                    push myself creatively and learn new things.
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■. 
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■.
                 </p>
             </div>
             <div className="text-block">
-                <h2>部分艺术作品</h2>
+                <h2>■■■■■■■■■■■■■■■■</h2>
                 <br />
                 <p>
-                    In high school, I started learning how to draw and animate
-                    pixel art after becoming interested in video game
-                    development. As I worked on making games over the years, I
-                    learned so much about pixel art and fell in love with
-                    animation.
+                    ■■■■■■■■■■■■■■■■■■,■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                    ■■■■■■■■■■■■■■■■■■,■■■■■■■■■■■■■■■■■■■. 
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■, 
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■.
                 </p>
                 <br />
                 
@@ -41,8 +38,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 1:</b> Eight Frame Run cycle animated by
-                            myself, original sprite by kevink
+                            <b>Figure 1:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■
                         </sub>
                     </p>
                 </div>
@@ -52,7 +48,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 2:</b> Description of the second image.
+                            <b>Figure 2:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■.
                         </sub>
                     </p>
                 </div>
@@ -62,7 +58,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 3:</b> Description of the third image.
+                            <b>Figure 3:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■.
                         </sub>
                     </p>
                 </div>
@@ -72,7 +68,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 4:</b> Description of the fourth image.
+                            <b>Figure 4:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■.
                         </sub>
                     </p>
                 </div>
@@ -84,31 +80,29 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     <img src={girlRun} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 5:</b> Description of the fifth image.
+                            <b>Figure 5:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■.
                         </sub>
                     </p>
                 </div>
                 <p>
-                    I really started enjoying the work I was doing, and felt I
-                    was improving a lot. Around 2017, I started to upload videos
-                    of my work flow and animation process to YouTube just for
-                    fun. I was really surprised however when my first video took
-                    off and got a few thousand views! Below are the video links
-                    to the work I uploaded to youtube.
+                    ■■■■■■■■■■■■■■■■■■,■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                    ■■■■■■■■■■■■■■■■■■,■■■■■■■■■■■■■■■■■■■. 
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■, 
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■.
                 </p>
                 <br />
-                <h3>Video Links:</h3>
+                <h3>■■■■■■■■■■</h3>
                 <br />
                 <ul>
                     <li>
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://www.youtube.com/watch?v=pDtUX3ZVHJ0"
+                            href="https://■■■■■■■■■■"
                         >
                             <p>
-                                <b>VIDEO</b> - Pixel Art Walk Cycle Time-lapse
-                                and Tutorial
+                                <b>■■■■■■■■■■</b> - ■■■■■■■■■■■■■■■■■■■■
+                                ■■■■■
                             </p>
                         </a>
                     </li>
@@ -116,10 +110,10 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://www.youtube.com/watch?v=xXEDKQ3wSfM"
+                            href="https://■■■■■■■■■■■■■■■"
                         >
                             <p>
-                                <b>VIDEO</b> - Pixel Art "Bag Up" Animation
+                                <b>■■■■■</b> - ■■■■■
                                 Time-lapse
                             </p>
                         </a>
@@ -128,11 +122,11 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://www.youtube.com/watch?v=leZzb-Y0SKQ"
+                            href="https://■■■■■■■■■■■■■■■■■■■■"
                         >
                             <p>
-                                <b>VIDEO</b> - Pixel Art Bipedal Creature Run
-                                Cycle Time-lapse
+                                <b>■■■■■</b> - ■■■■■■■■■■■■■■■■■■■■■■■■■
+                                ■■■■■■■■■■
                             </p>
                         </a>
                     </li>
@@ -142,18 +136,16 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     <img src={gsts} alt="" />
                     <p>
                         <sub>
-                            <b>Figure 2:</b> More pixel art: Enemy Lineup from a
-                            game I worked on called Guntattchment Saga
+                            <b>Figure 2:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■
+                            ■■■■■■■■■■■■■■■■■■■■■■■■■
                         </sub>
                     </p>
                 </div>
                 <br />
                 <p>
-                    This page is currently a work in progress. I've recently
-                    found myself wanting to make more pixel art recently and I
-                    have some project plans and ideas in the works. Expect
-                    updates to this page as I dive back into the world of pixel
-                    art!
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■. ■■■■■■■■■■■
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■. ■■■■■■■■■■■■■■■■■■■■■■■
+                    ■■■■■■■■■■■■■■■■■!
                 </p>
                 {/* <h3> Screen record time-lapses and make gifs</h3> */}
             </div>
