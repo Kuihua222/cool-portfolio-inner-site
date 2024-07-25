@@ -45,28 +45,6 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     </p>
                 </div>
                 <p>
-                <br />
-                <div className="captioned-image">
-                    <img src={girlRun} alt="" />
-                    <p>
-                        <sub>
-                            <b>Figure 1:</b> Eight Frame Run cycle animated by
-                            myself, original sprite by kevink
-                        </sub>
-                    </p>
-                </div>
-                <p>
-                <br />
-                <div className="captioned-image">
-                    <img src={girlRun} alt="" />
-                    <p>
-                        <sub>
-                            <b>Figure 1:</b> Eight Frame Run cycle animated by
-                            myself, original sprite by kevink
-                        </sub>
-                    </p>
-                </div>
-                <p>
                     I really started enjoying the work I was doing, and felt I
                     was improving a lot. Around 2017, I started to upload videos
                     of my work flow and animation process to YouTube just for
