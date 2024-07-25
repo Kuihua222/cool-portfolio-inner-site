@@ -25,7 +25,7 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                 </p>
             </div>
             <div className="text-block">
-                <h2>Pixel Art and Animation</h2>
+                <h2>部分艺术作品</h2>
                 <br />
                 <p>
                     In high school, I started learning how to draw and animate
@@ -34,6 +34,28 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
                     learned so much about pixel art and fell in love with
                     animation.
                 </p>
+                <br />
+                <div className="captioned-image">
+                    <img src={girlRun} alt="" />
+                    <p>
+                        <sub>
+                            <b>Figure 1:</b> Eight Frame Run cycle animated by
+                            myself, original sprite by kevink
+                        </sub>
+                    </p>
+                </div>
+                <p>
+                <br />
+                <div className="captioned-image">
+                    <img src={girlRun} alt="" />
+                    <p>
+                        <sub>
+                            <b>Figure 1:</b> Eight Frame Run cycle animated by
+                            myself, original sprite by kevink
+                        </sub>
+                    </p>
+                </div>
+                <p>
                 <br />
                 <div className="captioned-image">
                     <img src={girlRun} alt="" />
