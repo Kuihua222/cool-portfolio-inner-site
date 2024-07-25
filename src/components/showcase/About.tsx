@@ -38,21 +38,22 @@ const About: React.FC<AboutProps> = (props) => {
                 <h3>About Me</h3>
                 <br />                                                                              
                 <p>                                                                              
-                    这里还在编。别急
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
                 </p>                          
                 <br />                          
                 <div className="captioned-image">
                     <img src={me} style={styles.image} alt="" />
                     <p>                          
                         <sub>                          
-                            <b>Figure 1:</b> A real photo of me developing this
-                            website :)
+                            <b>Figure 1:</b> ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                            ■■■■■■■■■■■■■■■■■■■■■■■■■■■
                         </sub>                          
                     </p>                          
                 </div>                          
 
                 <p>                          
-                   这里也还在编。,{' '}
+                   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■,{' '}
                     <a    
                         rel="noreferrer"    
                         target="_blank"    
@@ -60,12 +61,12 @@ const About: React.FC<AboutProps> = (props) => {
                     >
                         我的网站arts
                     </a>
-                    . 跳转至software{' '}
-                    <Link to="/projects/software">Software Projects</Link> page.
+                    . 跳转至{' '}
+                    <Link to="/projects/software">Website</Link> page.
                 </p>
                 <br />
                 <p>
-                   这也还没东西！！
+                   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
                 </p>
                 <br />
                 <br />
@@ -89,14 +90,16 @@ const About: React.FC<AboutProps> = (props) => {
                         </p>
                         <br />
                         <p>
-                            没写.
+                            ■■■■■■■■■■■■■■■■■■■■■■■■■■■.
+                            ■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                            ■■■■■■■■■■■■■■■■■■■■■■■■■■■
                         </p>
                     </div>
                     <div style={styles.verticalImage}>
                         <img src={meNow} style={styles.image} alt="" />
                         <p>
                             <sub>
-                                <b>Figure 2:</b> Me, April 2022
+                                <b>Figure 2:</b> Me, ■■■■■■■■■■■■■■■■■■■■■■■■■■■
                             </sub>
                         </p>
                     </div>
@@ -117,7 +120,7 @@ const About: React.FC<AboutProps> = (props) => {
                 </p>
                 <br />
                 <p>
-                    邮件。 You can reach me through the{' '}
+                    You can reach me through the{' '}
                     <Link to="/contact">contact page</Link> or shoot me an email
                     at{' '}
                     <a href="mailto:kuihua2222@gmail.com">
